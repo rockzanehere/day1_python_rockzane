@@ -1,0 +1,28 @@
+#this is a comment 
+print("equal to symbol is not working")
+
+#this is a command 
+a=5
+b=5 
+c=a+b
+print(a+b)
+
+#am using here to add two numbers
+
+a = 10 
+b = 5000089 
+c = a + b
+print(c)
+
+#am using to pile sweets
+sweets = 15 
+cookies = 15
+box = sweets + cookies
+print("box")
+
+#billing for 3 people
+a1= 180
+b1= 270
+c1= 560
+d1= a1 + b1 + c1
+print ("d1")
